@@ -1,4 +1,17 @@
-# TIL-Today-I-Learned 20200513(Thur)
+# TIL-Today-I-Learned 20200513(Wed)
+
+### AND OR Operators
+a = 2;
+b = 2;
+
+`c = a = 2 && b + 1 = 3`
+
+then `c = 1` because `1 AND 1` is 1.
+I had no idea that these operators could be used with equations instead of ones and zeroes.
+It's actually quite obvious, but it just never came to my mind.
+These operations seem very useful in writing concise code lines.
+
+---
 
 ### How to run Glagan's cub3D
 1. Git clone Glagan's repository.
@@ -33,4 +46,6 @@ Header files are TEXT files while library files are BINARY. This means, we can r
 Header file is in C language while the library is in machine language!
 Header file has to be included by the programmer while the compiler automatically relates the library file(s) with the program!
 
-https://stackoverflow.com/questions/6407975/what-are-header-files-and-library-files
+Souce: https://stackoverflow.com/questions/6407975/what-are-header-files-and-library-files
+
+
