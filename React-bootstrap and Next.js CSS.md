@@ -1,6 +1,6 @@
 # How to use React-bootstrap with Next.js
 
-[[TOC]]
+[1. Install](###1.-install)
 
 <br>
 
