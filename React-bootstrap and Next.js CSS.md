@@ -1,6 +1,14 @@
 # How to use React-bootstrap with Next.js
 
-[1. Install](###install)
+**Table of Contents**
+
+[1. Install react-bootstrap](#1-install)
+
+[2. Import component](#2-import-component)
+
+[3. Apply CSS](#3-apply-css-in-nextjs)
+
+
 
 <br>
 
