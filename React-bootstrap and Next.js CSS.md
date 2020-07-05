@@ -1,6 +1,6 @@
 # How to use React-bootstrap with Next.js
 
-[TOC]
+[[TOC]]
 
 <br>
 
