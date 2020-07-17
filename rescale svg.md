@@ -5,11 +5,13 @@
 ##### 1. First, svg needs to be turned into jsx
 
 - For instance, `:[lowcase]` and `-[lowcase]` should turn into `:[uppercase]` and `-[uppercase]` respectively
--  However, if you don't know what to change, or if there are too many to change there's a [site](https://svg2jsx.com/) that changes the format of the svg so that it can be imported in jsx. This site doesn't change all the grammars, but it works fine.
+-  However, if you don't know what to change, or if there are too many to change there's a [site](https://react-svgr.com/playground/) that changes the format of the svg so that it can be imported in jsx. This site doesn't change all the grammars, but it works fine.
 
 ##### 2. Copy paste
 
-- There should be a 
+- Create a component and copy paste the svg
+- The site automatically creates a react function.
+- Modify className format if css needs to be applied.
 
 ##### 2. Change classNames
 
