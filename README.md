@@ -12,7 +12,7 @@
 2. [Making TOC](#12-how-to-make-toc--jehong)
 
 
-[1.1 　 HTTP: Internet's Multimedia Courrier　 `mihykim`](#11---http--internet-s-multimedia-courrier)
+[1.1 　 HTTP: 인터넷의 멀티미디어 배달부　 `mihykim`](#11---http--인터넷의-멀티미디어-배달부--mihykim)
 
 [1.2 　 웹 클라이언트와 서버　 `mihykim`](#12---웹-클라이언트와-서버---mihykim-)
 
