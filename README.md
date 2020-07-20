@@ -9,7 +9,7 @@
 
 1. [What is TOC](#11-what-is-toc)
 
-2. [Making TOC](#12-how-to-make-toc)
+2. [Making TOC](#12-how-to-make-toc---jehong-)
 
 
 [1.1 　 HTTP: Internet's Multimedia Courrier　 `mihykim`](#11---http--internet-s-multimedia-courrier)
@@ -38,7 +38,7 @@
 
 ## 1.1 What is TOC
 
-## 1.2 How to Make TOC
+## 1.2 How to Make TOC  `jehong`
 
 ### 1.1 　 HTTP: Internet's Multimedia Courrier
 1. HTTP 통신에서 데이터를 전송할 경우, 개발자는 전송 중 데이터가 파괴되거나, 중복되거나, 왜곡될 수 있기 때문에 이에 유의해야 한다. (O/X)
