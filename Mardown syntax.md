@@ -2,8 +2,8 @@
 
 ### 1. Table of Contents
 - `[Text to display](#title)`
-- Spaces are replaced by '-'
-- '.' is ignored
+- Spaces are replaced by '-' (Tabs are not replaced by '-')
+- '.', '-', ':' are ignored
 - Capital letters are changed to lowercase
 - Regardless of hearders, the link of the title begins with a '#'
 - A [site](https://ecotrust-canada.github.io/markdown-toc/) that generates Table of Contents
