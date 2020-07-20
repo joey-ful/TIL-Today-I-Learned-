@@ -9,7 +9,7 @@
 
 1. [What is TOC](#11-what-is-toc)
 
-2. [Making TOC](#12-how-to-make-toc---jehong-)
+2. [Making TOC](#12-how-to-make-toc--jehong)
 
 
 [1.1 　 HTTP: Internet's Multimedia Courrier　 `mihykim`](#11---http--internet-s-multimedia-courrier)
