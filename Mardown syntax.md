@@ -6,7 +6,7 @@
 - '.', '-', ':' are ignored
 - Capital letters are changed to lowercase
 - Regardless of hearders, the link of the title begins with a '#'
-- A [site](https://ecotrust-canada.github.io/markdown-toc/) that generates Table of Contents
+- A [site](https://ecotrust-canada.github.io/markdown-toc/) that generates Table of Contents is helpful but not always correct
 - Example:<br>
    - Let's say there's a markdown like below
      > # TOC
