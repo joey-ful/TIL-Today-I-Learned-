@@ -3,7 +3,7 @@
 
 ### Table of Contents
 
-[1.1 　 HTTP: 인터넷의 멀티미디어 배달부](#11HTTPrr인터넷의-멀티미디어-배달부rmihykim)
+[1.1 　 HTTP: 인터넷의 멀티미디어 배달부](#11　　http-인터넷의-멀티미디어-배달부　mihykim)
 
 [1.2 　 웹 클라이언트와 서버](#12---웹-클라이언트와-서버--mihykim)
 
