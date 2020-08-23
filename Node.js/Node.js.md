@@ -1,8 +1,5 @@
 # TIL-Today-I-Learned- 20200609(Tue)
 
-## 5E
-I joined a team and we'll be creating a web server during the next month.
-
 ## Node.js
 https://opentutorials.org/course/3332
 

@@ -1,6 +1,49 @@
 # TIL-Today-I-Learned- 20200618(Thur)
 
 
+## [React iterative(map)](https://www.youtube.com/watch?v=OO5gXdPR6HI&list=PLcqDmjxt30RtqbStQqk-eYMK8N-1SYIFn&index=22)
+
+- To write 5 "like"s, html needs to write 5 <li> codes
+
+  ```html
+  <ul>
+  	<li>like</li>
+      <li>like</li>
+      <li>like</li>
+      <li>like</li>
+      <li>like</li>
+  </ul
+  ```
+
+- However, this can be simplified using map() function
+
+  ```react
+  <ul>
+      {['like', 'like', 'like', 'like', 'like']}.map(() => {
+          return (
+              <li>like</li>
+          );
+      })
+  </ul>
+  
+  <ul>
+      {['사과', '바나나', '포도', '귤', '감', '배', '밤']}.map((v) => {
+          return (
+              <li>{v}</li>
+          );
+      })
+  </ul>
+  
+  <ul>
+      {['like']}.map((v) => {
+          return (
+              <li>{v}</li>
+          );
+      })
+  </ul>
+  ```
+
+
 
 ## [React iteration (key)](https://www.youtube.com/watch?v=A-ydulnj8lk&list=PLcqDmjxt30RtqbStQqk-eYMK8N-1SYIFn&index=23)
 
