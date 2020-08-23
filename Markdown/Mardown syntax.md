@@ -1,6 +1,22 @@
 # Markwon syntax
 
 ### 1. Table of Contents
+
+#### The Easiest Way
+- The easiest way is to publish your markdown file in github and find the address of the heading in the page.
+- If you click the link icon in front of the heading you wish to know the addresss of, the address of the page will automatically change
+![](https://images.velog.io/images/jehjong/post/220c12e8-e5b1-4328-b15b-58b62625dfcd/image.png)
+
+- And shows the addresss of the heading at the end. Just copy and paste it
+![](https://images.velog.io/images/jehjong/post/46915613-0a55-49fd-b272-aef2a4405ee1/image.png)
+
+```
+	[Table of Contents][#1-table-of-contents]
+```
+
+- This method reuiqres no knowlege about how to format the address of headings.
+
+#### Rules
 - `[Text to display](#title)`
 - Spaces are replaced by '-' (Tabs are not replaced by '-')
 - '.', '-', ':' are ignored
