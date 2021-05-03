@@ -1,6 +1,5 @@
 TIL-Today-I-Learned 20200515(Fri)
 
-I was solving a leetcode problem and I got address sanitizer issues because of a notation error.
 Output is a two-dimensional string array and I received the address of output[i] in another function.
 
 `void    inputmalloc(char **output, char *str)`
