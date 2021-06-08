@@ -61,6 +61,7 @@ for item in library {
     }
 }
 ```
+[code source](https://docs.swift.org/swift-book/LanguageGuide/TypeCasting.html)
 
 - MediaItem 클래스를 상속해 Movie와 Song이라는 자식 클래스를 생성
 - Movie와 Song 인스턴스를 만들어 배열에 담으면 특이하게도 부모인 MediaItem 타입이라 한다
@@ -81,6 +82,7 @@ for item in library {
     }
 }
 ```
+[code source](https://docs.swift.org/swift-book/LanguageGuide/TypeCasting.html)
 
 - library에는 Movie나 Song의 인스턴스들이 담겨있다. 하지만 타입은 그들의 부모인 MediaItem
 - library내 MediaItem 인스턴스들을 Movie나 Song으로 다운캐스팅 한다
@@ -110,6 +112,7 @@ enum VendingMachineError: Error {
     case outOfStock
 }
 ```
+[code source](https://docs.swift.org/swift-book/LanguageGuide/ErrorHandling.html#ID509
 
 ### Throwing Functions
 
@@ -141,6 +144,7 @@ func vend(itemNamed name: String) throws {
         // 에러가 없을 때 진행할 코드
     }
 ```
+[code source](https://docs.swift.org/swift-book/LanguageGuide/ErrorHandling.html#ID509)
 
 ### Do-Catch
 
@@ -181,6 +185,7 @@ func fetchData() -> Data? {
     return nil
 }
 ```
+[code source](https://docs.swift.org/swift-book/LanguageGuide/ErrorHandling.html#ID512)
 
 # 문제점 / 고민한 점
 
