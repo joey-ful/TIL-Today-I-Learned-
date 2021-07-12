@@ -2,8 +2,6 @@
 
 ## Navigation Controller 연결하기
 
-나는 Navigation Controller를 끌어서 가져오는 방법밖에 몰랐고 이 방법은 좀 불편했는데 완전 편한 방법 두 가지를 ! 🥳
-
 1. 루트뷰컨트롤러로 설정하고 싶은 뷰컨트롤러를 클릭한 채 아래 버튼을 누르면 된다
 
     ![https://images.velog.io/images/jehjong/post/c169fdeb-d059-4c99-823e-2f46ab036ddd/image.png](https://images.velog.io/images/jehjong/post/c169fdeb-d059-4c99-823e-2f46ab036ddd/image.png)
